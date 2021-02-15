@@ -1,0 +1,20 @@
+C:\Users\Dell\source\repos\C# ders 14\Kayıt Sil Görüntüle ders 14\Kayıt Sil Görüntüle ders 14\bin\Debug\Kayıt Sil Görüntüle ders 14.exe.config
+C:\Users\Dell\source\repos\C# ders 14\Kayıt Sil Görüntüle ders 14\Kayıt Sil Görüntüle ders 14\bin\Debug\Kayıt Sil Görüntüle ders 14.exe
+C:\Users\Dell\source\repos\C# ders 14\Kayıt Sil Görüntüle ders 14\Kayıt Sil Görüntüle ders 14\bin\Debug\Kayıt Sil Görüntüle ders 14.pdb
+C:\Users\Dell\source\repos\C# ders 14\Kayıt Sil Görüntüle ders 14\Kayıt Sil Görüntüle ders 14\obj\Debug\Kayıt Sil Görüntüle ders 14.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\C# ders 14\Kayıt Sil Görüntüle ders 14\Kayıt Sil Görüntüle ders 14\obj\Debug\Kayıt_Sil_Görüntüle_ders_14.Form1.resources
+C:\Users\Dell\source\repos\C# ders 14\Kayıt Sil Görüntüle ders 14\Kayıt Sil Görüntüle ders 14\obj\Debug\Kayıt_Sil_Görüntüle_ders_14.Properties.Resources.resources
+C:\Users\Dell\source\repos\C# ders 14\Kayıt Sil Görüntüle ders 14\Kayıt Sil Görüntüle ders 14\obj\Debug\Kayıt Sil Görüntüle ders 14.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\C# ders 14\Kayıt Sil Görüntüle ders 14\Kayıt Sil Görüntüle ders 14\obj\Debug\Kayıt Sil Görüntüle ders 14.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\C# ders 14\Kayıt Sil Görüntüle ders 14\Kayıt Sil Görüntüle ders 14\obj\Debug\Kayıt Sil Görüntüle ders 14.exe
+C:\Users\Dell\source\repos\C# ders 14\Kayıt Sil Görüntüle ders 14\Kayıt Sil Görüntüle ders 14\obj\Debug\Kayıt Sil Görüntüle ders 14.pdb
+C:\Users\Dell\source\repos\C# ders 14-15\Kayıt Sil Görüntüle ders 14\Kayıt Sil Görüntüle ders 14\bin\Debug\Kayıt Sil Görüntüle ders 14.exe.config
+C:\Users\Dell\source\repos\C# ders 14-15\Kayıt Sil Görüntüle ders 14\Kayıt Sil Görüntüle ders 14\bin\Debug\Kayıt Sil Görüntüle ders 14.exe
+C:\Users\Dell\source\repos\C# ders 14-15\Kayıt Sil Görüntüle ders 14\Kayıt Sil Görüntüle ders 14\bin\Debug\Kayıt Sil Görüntüle ders 14.pdb
+C:\Users\Dell\source\repos\C# ders 14-15\Kayıt Sil Görüntüle ders 14\Kayıt Sil Görüntüle ders 14\obj\Debug\Kayıt Sil Görüntüle ders 14.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\C# ders 14-15\Kayıt Sil Görüntüle ders 14\Kayıt Sil Görüntüle ders 14\obj\Debug\Kayıt_Sil_Görüntüle_ders_14.Form1.resources
+C:\Users\Dell\source\repos\C# ders 14-15\Kayıt Sil Görüntüle ders 14\Kayıt Sil Görüntüle ders 14\obj\Debug\Kayıt_Sil_Görüntüle_ders_14.Properties.Resources.resources
+C:\Users\Dell\source\repos\C# ders 14-15\Kayıt Sil Görüntüle ders 14\Kayıt Sil Görüntüle ders 14\obj\Debug\Kayıt Sil Görüntüle ders 14.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\C# ders 14-15\Kayıt Sil Görüntüle ders 14\Kayıt Sil Görüntüle ders 14\obj\Debug\Kayıt Sil Görüntüle ders 14.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\C# ders 14-15\Kayıt Sil Görüntüle ders 14\Kayıt Sil Görüntüle ders 14\obj\Debug\Kayıt Sil Görüntüle ders 14.exe
+C:\Users\Dell\source\repos\C# ders 14-15\Kayıt Sil Görüntüle ders 14\Kayıt Sil Görüntüle ders 14\obj\Debug\Kayıt Sil Görüntüle ders 14.pdb
